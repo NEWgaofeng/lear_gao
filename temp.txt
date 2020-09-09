@@ -1,1 +1,11 @@
-http://geek.glodon.com/
+
+镜像名称
+#############################################################################
+
+生产环境的镜像
+swr.cn-north-4.myhuaweicloud.com/zt-sjzn-znzj-pd/serving-persistence-prod:5.0-12
+
+预发环境的镜像
+swr.cn-north-4.myhuaweicloud.com/zt-sjzn-znzj-pd/serving-persistence:5.0-14
+
+
